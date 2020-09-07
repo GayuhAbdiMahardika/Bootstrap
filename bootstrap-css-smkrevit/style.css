@@ -1,0 +1,25 @@
+.carousel-item img {
+  height: 250px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 560px) {
+  .carousel-item img {
+    height: 400px;
+  }
+}
+
+.nav-link {
+  font-size: 20px;
+}
+
+.jumbotron {
+  padding: 0.5rem;
+}
+
+.container h1 {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: serif;
+}
